@@ -42,10 +42,6 @@ function showCancel() {
 
 let result = (d,f) => d + f;
 
-
 let saud = result(3,4);
 
-let answer = parseInt(prompt('Please enter the number'))
-for (let i = 1; i <= answer; i++) {
-console.log(i)
-}
+
